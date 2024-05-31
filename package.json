@@ -1,0 +1,20 @@
+{
+  "name": "gta-v-natives-snippets",
+  "displayName": "GTA V Natives Snippets",
+  "description": "A simple extension with snippets for the GTA V Natives",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "lua",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
