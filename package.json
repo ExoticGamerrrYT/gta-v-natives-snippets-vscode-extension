@@ -3,6 +3,11 @@
   "displayName": "GTA V Natives Snippets",
   "description": "A simple extension with snippets for the GTA V Natives",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExoticGamerrrYT/gta-v-natives-snippets-vscode-extension"
+  },
+  "publisher": "ExoticGamerrrYT",
   "engines": {
     "vscode": "^1.89.0"
   },
